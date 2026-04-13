@@ -1,6 +1,6 @@
 <!-- Header dengan animasi typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Richard+Nuhu!;Computer+Science+Student;Software+Engineer+Enthusiast;Frontend+Developer;Graphic+Designer;Virtual+Assistant;HTML+%7C+Tailwind+%7C+Javascript+%7CMySQL+%7C+React;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Richard+Nuhu!;Computer+Science+Student;Product+Manager;Software+Engineer+Enthusiast;Frontend+Developer;Graphic+Designer;Virtual+Assistant;HTML+%7C+Tailwind+%7C+Javascript+%7CMySQL+%7C+React;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 Student of **Computer Science** 
+- 🎓 Student of **Ghana Communication Technology University** 
 - 💻 Passionate in **Front-End Development, Web Development & System Design**
-- 🌱 Currently focusing on **Modern JavaScript Frameworks, Tailwind CSS, MySQL, and React**    
+- 🌱 Currently focusing on **Modern JavaScript Frameworks, Tailwind CSS, MySQL, React, NextJs, and Supabase**    
 - 🎯 Goal: Become a **Fullstack Developer**
 </td>
 <td width="40%" align="center">
