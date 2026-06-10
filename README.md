@@ -12,8 +12,8 @@
 <td width="60%" valign="top">
 
 - 🎓 Student of **Ghana Communication Technology University** 
-- 💻 Passionate in **Front-End Development, Web Development & System Design**
-- 🌱 Currently focusing on **Modern JavaScript Frameworks, Tailwind CSS, MySQL, React, NextJs, and Supabase**    
+- 💻 Passionate in **Software Engineering & System Design, UI/UX Design and Product Management & Design**
+- 🌱 Currently focusing on **Modern JavaScript Frameworks, Tailwind CSS, MySQL, React, NextJs, AWS and Supabase**    
 - 🎯 Goal: Become a **Fullstack Developer**
 </td>
 <td width="40%" align="center">
