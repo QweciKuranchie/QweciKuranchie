@@ -11,9 +11,9 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 Student of **Ghana Communication Technology University** 
+- 🎓 Fourth Year Computer Science Student of **Ghana Communication Technology University** 
 - 💻 Passionate in **Software Engineering & System Design, UI/UX Design and Product Management & Design**
-- 🌱 Currently focusing on **Modern JavaScript Frameworks, Tailwind CSS, MySQL, React, NextJs, AWS and Supabase**    
+- 🌱 Currently focusing on **Modern Frontend Frameworks(React and NextJs), Backend Languages(NodeJs and Express), Tailwind CSS, MySQL, NextJs, AWS and Supabase**    
 - 🎯 Goal: Become a **Fullstack Developer**
 </td>
 <td width="40%" align="center">
@@ -35,10 +35,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=QweciKuranchie&theme=tokyo-night&hide_border=true"/>
 </p>
 
+
+<a href="https://github.com/QweciKuranchie">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=QweciKuranchie&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/QweciKuranchie">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QweciKuranchie&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
+
 ---
 
 
-## 🚀 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,6 +56,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
+
+**Frameworks & Tools:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
