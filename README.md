@@ -1,6 +1,8 @@
 <!-- Header with typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Richard+Nuhu!;Software+Engineer;UI%2FUX+Designer;Building+Scalable,+Secure,+and+User-centered+Products" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Richard+Nuhu!;Software+Engineer;UI%2FUX+Designer;Building+scalable+products" alt="Typing SVG" />
+</p>
 </p>
 
 <p align="center">
@@ -56,10 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/QweciKuranchie">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=QweciKuranchie&show_icons=true&theme=radical" alt="Profile Stats" />
-  </a>
-  <a href="https://github.com/QweciKuranchie">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QweciKuranchie&layout=compact&theme=radical&langs_count=8&card_width=320" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QweciKuranchie&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="200" />
   </a>
 </p>
 
