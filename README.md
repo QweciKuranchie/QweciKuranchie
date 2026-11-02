@@ -41,12 +41,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QweciKuranchie&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QweciKuranchie&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QweciKuranchie&theme=github_dark" width="700" alt="Profile Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QweciKuranchie&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QweciKuranchie&theme=dark&hide_border=true" height="180" alt="Current Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QweciKuranchie&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QweciKuranchie&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="200" />
 </p>
 
 <p align="center">
