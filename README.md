@@ -1,6 +1,6 @@
 <!-- Header with typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Richard+Nuhu!;Software+Engineer;UI/UX +Designer;Building+Scalable+Secure+and+User+centered+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Richard+Nuhu!;Software+Engineer;UI%2FUX+Designer;Building+Scalable,+Secure,+and+User-centered+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,8 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QweciKuranchie&theme=github_dark" width="700" alt="Profile Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QweciKuranchie&theme=github_dark" width="700" alt="Profile Summary" />
 </p>
 
 <p align="center">
@@ -50,7 +51,7 @@
 </p>
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QweciKuranchie&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QweciKuranchie&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
